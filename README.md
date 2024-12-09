@@ -1,4 +1,4 @@
-# Proje
+# Shopier E-Ticaret Sitesi
 ### Proje Tanımı:
 
 Shopier, kullanıcıların kendi e-ticaret mağazalarını kurmalarına olanak tanıyan bir platformdur. Shopier, işletmelerin hızlı ve kolay bir şekilde çevrimiçi satış yapabilmesini sağlamak için sade ve kullanıcı dostu bir arayüz sunar. Kullanıcılar, fiziksel mağazalarından bağımsız olarak ürünlerini çevrimiçi ortamda sergileyebilir, sipariş alabilir ve ödeme işlemleri gerçekleştirebilir. Ayrıca, platform, kullanıcıların farklı ödeme yöntemleri ve kargo seçenekleri ile satış yapmalarına olanak tanır, böylece müşteri deneyimini kolaylaştırır. <br>
@@ -10,6 +10,12 @@ Shopier, küçük ve orta ölçekli işletmeler, girişimciler ve serbest çalı
 Shopier’in temel amacı, herhangi bir teknik bilgiye sahip olmayan girişimcilerin veya küçük işletmelerin kolayca bir e-ticaret sitesi kurmasını sağlamaktır. Platform, kullanıcıların herhangi bir yazılım geliştirme becerisi olmadan, kendi çevrimiçi mağazalarını hızla oluşturmasına olanak tanır. Shopier, basit arayüzü ve güçlü özellikleriyle, kullanıcıların ürünlerini çevrimiçi satmalarını ve yönetmelerini sağlayarak, dijital ticaret dünyasına adım atmalarını kolaylaştırır.<br>
 
 Ayrıca, platformun amacından biri de kullanıcı deneyimini ön planda tutarak, alışveriş yapanlar için sorunsuz bir alışveriş süreci sunmaktır. Shopier, güvenli ödeme entegrasyonları, esnek kargo seçenekleri ve kullanıcı dostu arayüzü ile müşteri memnuniyetini artırmayı hedefler.<br>
+
+### Projenin Yapımında Sorumlu Kişiler
+
+Caner Çetiner 
+
+Gözde Yıldırım
 
 ### Hedef Sektörler:
 
